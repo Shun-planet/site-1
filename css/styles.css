@@ -93,7 +93,6 @@ a{
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
-    font-size: 1.0rem;
 }
 
 a:hover{
@@ -118,5 +117,12 @@ a:hover{
 .footer{
     color: #EAF6F6;
     font-family: 'Sacramento', cursive;
-    font-size: 1.0rem;
+    font-size: 1.5rem;
+}
+
+.my-signature{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #11999E;
 }
